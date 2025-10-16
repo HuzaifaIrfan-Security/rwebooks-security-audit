@@ -1,8 +1,6 @@
 # RWEBooks Security Audit
 **`RWEbooks Paid Ebooks Downloader`**
 
-Developed on : 19 March 2021
-
 ## 🎬 Demo Video
 
 [![Demo Video](https://img.youtube.com/vi/Ga0P5jNJl1w/0.jpg)](https://www.youtube.com/watch?v=Ga0P5jNJl1w)
@@ -36,3 +34,5 @@ And Informed the developers about the bug.
 # 📜 License
 
 Licensed under the MIT License, Copyright 2025 Huzaifa Irfan. [LICENSE](LICENSE)
+
+Last Updated on 2021-03-19
